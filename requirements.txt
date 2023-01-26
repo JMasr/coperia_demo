@@ -1,0 +1,5 @@
+torch~=1.10.1
+numpy~=1.19.5
+torchaudio~=0.10.1
+sklearn~=0.0
+scikit-learn~=0.24.2
